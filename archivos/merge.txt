@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 José Daniel Moreno
 19 años
 Aspiro a desempeñarme correctamente, durante y después del curso, en todo lo concerniente a la programación orientada a objetos.
+=======
+Como la caroeta archivos ahora es no vacía, Github lo reconoce como un cambio.
+>>>>>>> 0f5d998c35d149f15de5e0f776b0caf57beb13bd
