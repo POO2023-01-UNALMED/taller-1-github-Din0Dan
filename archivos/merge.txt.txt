@@ -1,3 +1,1 @@
-José Daniel Moreno Ceballos
-19 años
-Aspiro a desempeñarme correctamente, durante y después del curso, en el ámbito de la programación orientada a objetos.
+Ahora, la carpeta archivos sí tiene elementos(no vacía). Por lo tanto, Github sí lo reconoce como un cambio y deja subirla.
